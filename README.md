@@ -5,4 +5,4 @@ This software is designed for mass, dynamic and peer-to-peer sending, which is c
 
 ## Getting started
 
-To use the software, first get an account from one of the SMS service companies that use Arad SMS platform. Then edit the domain.txt file and enter the domain address in it.
+To use the software, first download .net core 8. Then get an account from one of the SMS service companies that use Arad SMS platform. Then edit the domain.txt file and enter the domain address in it.
