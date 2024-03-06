@@ -1,0 +1,3 @@
+﻿https://api.aradvas.ir
+https://smsapi.asiatech.ir
+https://smsapi.medianasms.ir
